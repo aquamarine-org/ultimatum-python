@@ -1,0 +1,15 @@
+{
+    "name": "Ультимативный курс по Python",
+    "version": "0.0.1",
+    "authors": [
+        {"name": "Melcikov Ivan", "email": "vanamelcikov7275@gmail.com"},
+        {"name": "Example Author", "email": "example@example.com"}
+    ],
+    "description": "Курс по Python от олимпиадников.",
+    "keywords": [
+        "python", "питон",
+        "ЯП", "Языки программирования",
+        "программирование", "информатика"
+    ],
+    "subject": "Информатика"
+}
